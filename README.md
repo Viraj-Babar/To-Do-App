@@ -49,7 +49,7 @@ google_fonts: ^6.1.0
 ```
 ## ▶️ How to Run
 
-1. Clone the repository
+1. Clone the repository: git clone  https://github.com/Viraj-Babar/To-Do-App.git
 2. Run `flutter pub get`
 3. Run `flutter run`
 
